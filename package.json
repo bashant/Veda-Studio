@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules\\.bin\\cypress run --config pageLoadTimeout=100000",
+    "runtests":"npm run test --"
+   
   },
   "keywords": [],
-  "author": "",
+  "author": "",  
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.13.2"
