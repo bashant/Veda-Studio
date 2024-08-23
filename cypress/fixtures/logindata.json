@@ -1,0 +1,14 @@
+{
+    "validCredentials":{
+        "username":"ankitpokharelqa@gmail.com",
+        "password":"AbhaY$#21"
+    },
+    "invalidCredentials":{
+        "username":"ankitpokharelq11@gmail.com",
+        "password":"AbhaY$#23"
+    },
+    "emptyCredentials":{
+        "username":"   ",
+        "password":"   "
+    }
+}
